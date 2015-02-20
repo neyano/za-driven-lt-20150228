@@ -5,3 +5,4 @@
 | zephiransas        | "How hard can it be?" または "ラブライブで学ぶプログラマが知るべきたった一つのこと" |
 | さきえ             | 続・猟銃女子                                                                        |
 | deep_tkkn          | "僕の考えたさいきょーのVMM開発環境" or "jailhouse を動かしてみた"                   |
+| ねやの＠にわか提督 | Unityもくもく会やってみた                                                           |
